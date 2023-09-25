@@ -1,7 +1,7 @@
 # 'The Rock, Paper and Scissors' Game
 The project is a simulation of the famous game of Rock, Paper and Scissors in the console of Python.
 
-<img width="200" alt="rock, paper, scissors game" src="https://github.com/an-nikol/game_rock_paper_scissors/assets/142790207/d8fa93e4-cd93-4208-80a1-804d2de37f4a">
+<img width="300" alt="rock, paper, scissors game" src="https://github.com/an-nikol/game_rock_paper_scissors/assets/142790207/d8fa93e4-cd93-4208-80a1-804d2de37f4a">
 
 
 
