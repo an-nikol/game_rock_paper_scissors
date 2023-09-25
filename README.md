@@ -29,6 +29,9 @@ if the user has chosen:
 * *5* to play Best out of 5, the final result is printed when one party has scored 3 consecutive wins.
 If the player has typed a different number (other than 3 or 5), the program informs the user of the invalid input and prompts the player to type again.
 
+## Screenshots
+
+<img width="400" alt="rock, paper, scissors game" src="https://github.com/an-nikol/game_rock_paper_scissors/assets/142790207/170a9b0f-d748-4431-a9e5-306d0ee401ed">
 
 
    
