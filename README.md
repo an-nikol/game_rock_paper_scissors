@@ -24,7 +24,7 @@ Finally, if the player wants to quit the game prematurely, he or she may type **
 
 ## Output
 
-if the user has chosen:
+If the user has chosen:
 * *3* to play the game in a mode of Best out of 3, the result of the game is printed when one party has scored 2 consecutive wins.
 * *5* to play Best out of 5, the final result is printed when one party has scored 3 consecutive wins.
 If the player has typed a different number (other than 3 or 5), the program informs the user of the invalid input and prompts the player to type again.
@@ -32,6 +32,7 @@ If the player has typed a different number (other than 3 or 5), the program info
 ## Screenshots
 
 <img align="left" width="500" alt="rock, paper, scissors game" src="https://github.com/an-nikol/game_rock_paper_scissors/assets/142790207/170a9b0f-d748-4431-a9e5-306d0ee401ed">
+</br>
 <img align="left" width="500" alt="rock, paper, scissors game" src="https://github.com/an-nikol/game_rock_paper_scissors/assets/142790207/f74d1999-b50a-45cf-8eca-e692f9f92bdb">
 
    
