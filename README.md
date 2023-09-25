@@ -1,7 +1,7 @@
 # 'The Rock, Paper and Scissors' Game
 The project is a simulation of the famous game of Rock, Paper and Scissors in the console of Python.
-＜img src="(https://github.com/an-nikol/game_rock_paper_scissors/assets/142790207/2b96faf6-2853-4e41-b37d-d0186d78a666)
-" width="300" height="300"＞
+＜img src="https://github.com/an-nikol/game_rock_paper_scissors/assets/142790207/2b96faf6-2853-4e41-b37d-d0186d78a666
+"width="300" height="300"＞
 
 `The Rock, Paper and Scissors Game is a two-player game in which you and the opponent(the computer) choose at the same time one of the following options: **rock, paper or scissors.** The rules of the game are:
 
