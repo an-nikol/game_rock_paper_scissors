@@ -30,9 +30,10 @@ If the user has chosen:
 If the player has typed a different number (other than 3 or 5), the program informs the user of the invalid input and prompts the player to type again.
 
 ## Screenshots
-
+<p>
    <img align="left" width="500" alt="rock, paper, scissors game" src="https://github.com/an-nikol/game_rock_paper_scissors/assets/142790207/170a9b0f-d748-4431-a9e5-306d0ee401ed">
-
-<img align="left" width="500" alt="rock, paper, scissors game" src="https://github.com/an-nikol/game_rock_paper_scissors/assets/142790207/f74d1999-b50a-45cf-8eca-e692f9f92bdb">
+   <p>
+   <img align="left" width="500" alt="rock, paper, scissors game" src="https://github.com/an-nikol/game_rock_paper_scissors/assets/142790207/f74d1999-b50a-45cf-8eca-e692f9f92bdb">
+<p>
 
    
