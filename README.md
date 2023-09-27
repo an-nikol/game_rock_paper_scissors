@@ -11,7 +11,7 @@ The rules of the game are:
  * Scissors beat Paper
  * Paper beats Rock
 
-The player chooses one of the available options and the computer **randomly** makes a choice as well. Then, the program **keeps track of the current score.** When the **neccessary number of wins** is reached by one of the parties, the program **prints the finals result and reveals the winner**.
+The player chooses one of the available options and the computer **randomly** makes a choice as well. Then, the program **keeps track of the current score.** When the **neccessary number of wins** is reached by one of the parties, the program **prints the final result and reveals the winner**.
 
 ## Input 
 First, the player is prompted to enter one of the two options:
@@ -19,9 +19,9 @@ First, the player is prompted to enter one of the two options:
 **5** to play in a mode "Best out of 5".
 
 Then, the player chooses between:
-**r** for "Rock"
-**p** for "Paper"
-**s** for "Scissors"
+* "r" for Rock
+* "s" for scissors
+* "p" for paper
 
 Finally, if the player wants to quit the game prematurely, he or she may type **Q** during the game.
 
