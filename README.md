@@ -11,7 +11,7 @@ The rules of the game are:
  * Scissors beat Paper
  * Paper beats Rock
 
-The player chooses one of the available options and the computer **randomly** makes a choice as well. Then, the program **keeps track of the current score.** When the **neccessary number of wins** is reached by on of the parties, the program **prints the finals result and reveals the winner**.
+The player chooses one of the available options and the computer **randomly** makes a choice as well. Then, the program **keeps track of the current score.** When the **neccessary number of wins** is reached by one of the parties, the program **prints the finals result and reveals the winner**.
 
 ## Input 
 First, the player is prompted to enter one of the two options:
