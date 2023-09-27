@@ -32,9 +32,9 @@ If the player has typed a different number (other than 3 or 5), the program info
 ## Screenshots
 <img align="left" width="500" alt="rock, paper, scissors game" src="https://github.com/an-nikol/game_rock_paper_scissors/assets/142790207/41e680cf-492a-41d3-b1f4-d372f3f98645">
 
-<img align="left" width="500" alt="rock, paper, scissors game" src="https://github.com/an-nikol/game_rock_paper_scissors/assets/142790207/bc9c2f0f-cd7e-4f98-84d4-1eb755d86021)https://github.com/an-nikol/game_rock_paper_scissors/assets/142790207/bc9c2f0f-cd7e-4f98-84d4-1eb755d86021">
+<img align="left" width="500" alt="rock, paper, scissors game" src="https://github.com/an-nikol/game_rock_paper_scissors/assets/142790207/bc9c2f0f-cd7e-4f98-84d4-1eb755d86021">
 
-
+<img align="left" width="500" alt="rock, paper, scissors game" src="https://github.com/an-nikol/game_rock_paper_scissors/assets/142790207/02bbdfda-db6d-4823-b6cc-0a9da02399eb">
 
 
    
